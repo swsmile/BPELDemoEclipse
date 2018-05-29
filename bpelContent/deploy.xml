@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deploy xmlns="http://www.apache.org/ode/schemas/dd/2007/03" xmlns:wei.localhost="http://wei.localhost">
+  <process name="wei.localhost:BpelProcess">
+    <active>true</active>
+    <retired>false</retired>
+    <process-events generate="all"/>
+    <provide partnerLink="client">
+      <service name="wei.localhost:BpelProcessService" port="BpelProcessPort"/>
+    </provide>
+  </process>
+</deploy>
