@@ -1,36 +1,35 @@
-A simple BPEL demo using Eclipse 
+# A simple BPEL demo using Eclipse 
 
 
 
 # Video Tutorial
 
-https://www.youtube.com/watch?v=4ftyrUE3Fj8
+- https://www.youtube.com/watch?v=4ftyrUE3Fj8
 
 
 
 ### Install BPEL in Eclipse
 
-See  **Installing Eclipse BPEL designer** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
-
-https://www.youtube.com/watch?v=aVMu2bkRmig
+- See  **Installing Eclipse BPEL designer** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
+- https://www.youtube.com/watch?v=aVMu2bkRmig
 
 
 
 ### Install Apache ODE
 
-See  **Installing Apache ODE** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
+- See  **Installing Apache ODE** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
 
 
 
 ### Set up the ODE server on Eclipse
 
-See **Setting up the ODE server on Eclipse** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
+- See **Setting up the ODE server on Eclipse** part in  http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
 
 
 
 # After Deployment
 
-Visit Apache ODE: http://localhost:8080/ode/#/
+- Visit Apache ODE: http://localhost:8080/ode/#/
 
 BPEL: http://localhost:8080/ode/processes/BpelProcess
 
@@ -100,8 +99,6 @@ BPEL: http://localhost:8080/ode/processes/BpelProcess
 
 # Reference
 
-http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
-
-http://people.apache.org/~vanto/HelloWorld-BPELDesignerAndODE.pdf
-
-https://www.youtube.com/watch?v=L7wXShaoDmU&t=506s
+- http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
+- http://people.apache.org/~vanto/HelloWorld-BPELDesignerAndODE.pdf
+- https://www.youtube.com/watch?v=L7wXShaoDmU&t=506s
