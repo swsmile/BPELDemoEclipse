@@ -102,3 +102,4 @@
 - http://www-inf.int-evry.fr/cours/WebServices/TP_BPEL/installation.html
 - http://people.apache.org/~vanto/HelloWorld-BPELDesignerAndODE.pdf
 - https://www.youtube.com/watch?v=L7wXShaoDmU&t=506s
+- https://www.youtube.com/watch?v=2wxXKSOe_jQ
