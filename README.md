@@ -31,7 +31,7 @@
 
 - Visit Apache ODE: http://localhost:8080/ode/#/
 
-BPEL: http://localhost:8080/ode/processes/BpelProcess
+- BPEL: http://localhost:8080/ode/processes/BpelProcess
 
 
 
